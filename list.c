@@ -31,6 +31,7 @@ assert(l != NULL);
         p = p->next;
 	return 0;
 }
+}
 
 // exersice 3.c and 3.d
 void printout(node *l) {
